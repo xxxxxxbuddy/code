@@ -1,0 +1,12 @@
+/Users/rawlence/workspace/code/code/bin/Debug/code.exe
+/Users/rawlence/workspace/code/code/bin/Debug/code.pdb
+/Users/rawlence/workspace/code/code/obj/x86/Debug/code.csprojAssemblyReference.cache
+/Users/rawlence/workspace/code/code/obj/x86/Debug/code.csproj.CoreCompileInputs.cache
+/Users/rawlence/workspace/code/code/obj/x86/Debug/code.exe
+/Users/rawlence/workspace/code/code/obj/x86/Debug/code.pdb
+/Users/rawlence/workspace/code/剑指offer/bin/Debug/code.exe
+/Users/rawlence/workspace/code/剑指offer/bin/Debug/code.pdb
+/Users/rawlence/workspace/code/剑指offer/obj/x86/Debug/code.csprojAssemblyReference.cache
+/Users/rawlence/workspace/code/剑指offer/obj/x86/Debug/code.csproj.CoreCompileInputs.cache
+/Users/rawlence/workspace/code/剑指offer/obj/x86/Debug/code.exe
+/Users/rawlence/workspace/code/剑指offer/obj/x86/Debug/code.pdb
