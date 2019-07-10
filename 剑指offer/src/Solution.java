@@ -4,9 +4,24 @@ public class Solution {
 //        int[] data = {1,2,3,4,5,6,7,0};
 //        System.out.println(InversePairs.InversePairs(data));
 
-        int array[] = {1,2,3,4,4,5,6,8,8};
-        int array2[] = {1};
-        int array3[] = {124, 123, 74, 23, 18, 15, 5, 5, 1};
-        System.out.println(GetNumberOfK.Solution(array, 8));
+
+        // 数字在排序数组中出现的次数
+//        int array[] = {1,2,3,4,4,5,6,8,8};
+//        int array2[] = {1};
+//        int array3[] = {124, 123, 74, 23, 18, 15, 5, 5, 1};
+//        System.out.println(GetNumberOfK.Solution(array, 8));
+
+        // 树的深度
+        TreeNode root = new TreeNode(3);
+        TreeNode l1 = new TreeNode(2);
+        TreeNode l2 = new TreeNode(1);
+        TreeNode l3 = new TreeNode(0);
+        TreeNode r1 = new TreeNode(4);
+
+        root.left = l1;
+        l1.left = l2;
+        l2.left = l3;
+        root.right = r1;
+        System.out.println(TreeDepth.TreeDepth(root));
     }
 }
