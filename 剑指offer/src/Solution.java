@@ -12,16 +12,19 @@ public class Solution {
 //        System.out.println(GetNumberOfK.Solution(array, 8));
 
         // 树的深度
-        TreeNode root = new TreeNode(3);
-        TreeNode l1 = new TreeNode(2);
-        TreeNode l2 = new TreeNode(1);
-        TreeNode l3 = new TreeNode(0);
-        TreeNode r1 = new TreeNode(4);
+//        TreeNode root = new TreeNode(3);
+//        TreeNode l1 = new TreeNode(2);
+//        TreeNode l2 = new TreeNode(1);
+//        TreeNode l3 = new TreeNode(0);
+//        TreeNode r1 = new TreeNode(4);
+//
+//        root.left = l1;
+//        l1.left = l2;
+//        l2.left = l3;
+//        root.right = r1;
+//        System.out.println(TreeDepth.TreeDepth(root));
 
-        root.left = l1;
-        l1.left = l2;
-        l2.left = l3;
-        root.right = r1;
-        System.out.println(TreeDepth.TreeDepth(root));
+        int n = 5;
+        System.out.println(FindContinuousSequence.Solution(n));
     }
 }
