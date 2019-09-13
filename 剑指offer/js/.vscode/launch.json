@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceRoot}/deleteDuplication.js"
+            "program": "${workspaceRoot}/SerializeBinTree.js"
           },
           {
             "type": "node",
