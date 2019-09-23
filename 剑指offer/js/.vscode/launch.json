@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceRoot}/SerializeBinTree.js"
+            "program": "${workspaceRoot}/netease3.js"
           },
           {
             "type": "node",
