@@ -1,4 +1,3 @@
-
 public class Solution {
     public static void main(String[] args) {
 //        int[] data = {1,2,3,4,5,6,7,0};
@@ -24,7 +23,11 @@ public class Solution {
 //        root.right = r1;
 //        System.out.println(TreeDepth.TreeDepth(root));
 
-        int n = 5;
-        System.out.println(FindContinuousSequence.Solution(n));
+//        int n = 5;
+//        System.out.println(FindContinuousSequence.Solution(n));
+
+//        System.out.println(Str2Int.StrToInt("-2147483648"));
+//        System.out.println(Match.match(new char[]{' '}, new char[]{' '}));
+        System.out.println(IsNumeric.isNumeric(new char[]{'1', '2', '3', '.', '4', '5', 'e', '+', '6'}));
     }
 }
