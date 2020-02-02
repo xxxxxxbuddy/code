@@ -28,6 +28,18 @@ public class Solution {
 
 //        System.out.println(Str2Int.StrToInt("-2147483648"));
 //        System.out.println(Match.match(new char[]{' '}, new char[]{' '}));
-        System.out.println(IsNumeric.isNumeric(new char[]{'1', '2', '3', '.', '4', '5', 'e', '+', '6'}));
+//        System.out.println(IsNumeric.isNumeric(new char[]{'1', '2', '3', '.', '4', '5', 'e', '+', '6'}));
+//        System.out.println(ReverseSentence.reverseSentence("student. a am I"));
+//        System.out.println(LastRemainingChild.LastRemaining_Solution(4, 2));
+//        FirstAppearingOnceChar fa = new FirstAppearingOnceChar();
+//        fa.Insert('g');
+//        fa.Insert('o');
+//        fa.Insert('o');
+//        fa.Insert('g');
+//        fa.Insert('l');
+//        fa.Insert('e');
+
+//        System.out.println(fa.FirstAppearingOnce());
+//        System.out.println(CutRope.cutRope(8));
     }
 }
